@@ -1,4 +1,4 @@
-# Huh7 Fzd2 Data Modeling
+# 4T1 Data Modeling
 
 ## Scripts
 

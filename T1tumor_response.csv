@@ -1,0 +1,47 @@
+compound,Response
+AZD3463 0.5uM,63.24
+BMS-794833 0.5uM,63.06
+Bosutinib 0.5uM,73.10404
+Casein Kinase I Inhibitor (D4476) 0.5uM,97.19064
+Cdk1/2 Inhibitor III 0.5uM,38.56406
+Control,100
+Dasatinib 0.5uM,54.73481
+"Dovitinib (TKI-258, CHIR-258) 0.5uM",62.91
+EGFR/ErbB2/ErbB4 Inhibitor 0.5uM,100
+Erlotinib HCl 0.5uM,100
+Gefitinib 0.5uM,82.30219
+Go 6983 0.5uM,68.96216
+GSK-3 Inhibitor IX 0.5uM,100
+GSK-3b Inhibitor I (TDZD-8) 0.5uM,81.04805
+GSK-3b Inhibitor XII (TWS119) 0.5uM,76.03041
+GZD824 0.5uM,55.83
+H-89 Dihydrochloride 0.5uM,100
+Imatinib Mesylate 0.5uM,94.17017
+JNK Inhibitor II (SP6) 0.5uM,67.1905
+K252a 0.5uM,43.23425
+Lapatinib 0.5uM,85.36042
+Lck Inhibitor (RK 24466) 0.5uM,100
+LY 294002 0.5uM,88.32076
+Masitinib 0.5uM,73.08636
+Met Kinase Inhibitor (SU11274) 0.5uM,100
+MGCD-265 0.5uM,45.58
+NCGC00263020-01 0.5uM,69.84
+Nilotinib (AMN-107) 0.5uM,97.48606
+OSI-906 (Linsitinib) 0.5uM,81.96
+PDGFR Tyrosine Kinase Inhibitor V 0.5uM,100
+PDK1/Akt/Flt Dual Pathway Inhibitor 0.5uM,58.02106
+PF-477736 0.5uM,56.16
+PP121 0.5uM,47.89
+Regorafenib (BAY 73-4506) 0.5uM,59.98
+ROCK Inhibitor Y-27632 0.5uM,94.29908
+SB 218078 0.5uM,59.45416
+Sorafenib 0.5uM,86.6705
+Src Kinase Inhibitor I 0.5uM,97.32321
+Staurosporine 0.5uM,6.197702
+Sunitinib (free base) 0.5uM,71.56988
+"TGFb RI Kinase Inhibitor (LY364947, HTS 466284) 0.5uM",100
+Tivozanib (AV-951) 0.5uM,73.74
+Tofacitinib 0.5uM,100
+Vandetanib 0.5uM,78.79667
+"Vargatef (Nintedanib, BIBF 1120) 0.5uM",60.76
+"Vemurafenib (PLX4032, RG7204) 0.5uM",87.4

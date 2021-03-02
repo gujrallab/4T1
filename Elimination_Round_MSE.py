@@ -1,10 +1,3 @@
-#!/usr/bin/env python3
-# -*- coding: utf-8 -*-
-"""
-Created on Wed Apr 22 16:20:37 2020
-
-@author: sid vijay
-"""
 
 
 # Importing the libraries

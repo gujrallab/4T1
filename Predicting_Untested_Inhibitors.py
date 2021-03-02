@@ -1,8 +1,3 @@
-# -*- coding: utf-8 -*-
-"""
-@author: sid vijay
-"""
-
 
 
 # Importing the libraries

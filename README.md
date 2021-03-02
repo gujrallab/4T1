@@ -8,8 +8,7 @@
 * *Permutation_Kinase_Importance.py : Kinase Importance
 * *Elimination_Round_MSE.py : Recursive Elimination MSE Calculation
 * *Predicting_Untested_Inhibitors.py : Single Drug Prediction
-* *Dual_Drug_Prediction.py : Dual Drug Prediction
-* *Three_Drug_Prediction.py : Three Drug Prediction
+
 
 
 ## Prerequisites
